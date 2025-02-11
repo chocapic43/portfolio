@@ -8,7 +8,8 @@
 
 body {
   color: #fff;
-  background: #101010;
+  background-color: #007bff;
+  border-radius: 15px; 
 }
 
 /* Header */
